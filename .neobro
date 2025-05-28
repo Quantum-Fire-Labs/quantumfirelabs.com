@@ -1,7 +1,10 @@
 ---
 files:
 - path: index.html
-  description: The file appears to be empty or contains no content to summarize, so
-    it cannot be described in detail.
-  mtime: 1748459931
+  description: This HTML file represents the website for Quantum Fire Labs, a company
+    offering AI and custom software solutions, featuring sections on their services,
+    benefits of AI for businesses, integration services like chatbot development and
+    predictive analytics, prominent AI brand logos, and multiple calls-to-action to
+    book a consultation call.
+  mtime: 1748475227
 status: Scan completed at 2025-05-28 14:22:12
